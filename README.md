@@ -9,20 +9,20 @@
 
 ## PREVISUALIZACIÓN
 
-imagen 1
+### imagen 1
 ![1](images/1.jpeg)
 
-imagen 2
+### imagen 2
 ![2](images/2.jpeg)
 
-imagen 3
+### imagen 3
 ![3](images/3.jpeg)
 
-imagen 4
+### imagen 4
 ![4](images/4.jpeg)
 
-imagen 5
+### imagen 5
 ![5](images/5.jpeg)
 
-imagen 6
+### imagen 6
 ![6](images/6.jpeg)

@@ -4,5 +4,14 @@
 # LEER O PREGUNTAR A CHAT GPT SOBRE LA LICENCIA AGPLv3 PARA NO TENER PROBLEMAS LEGALES 
 
 
-
 ### APP ESTARA FUNCIONAL EN LA WEB Y EN ANDROI EN EL 2 CICLO 2026
+
+
+## PREVISUALIZACIÓN
+
+![1](images/1.jpeg)
+![2](images/2.jpeg)
+![3](images/3.jpeg)
+![4](images/4.jpeg)
+![5](images/5.jpeg)
+![6](images/6.jpeg)
